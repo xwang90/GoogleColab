@@ -1,3 +1,3 @@
 # GoogleColab
 
-Train Deep Learning Models on GoogleColab platform: https://colab.research.google.com/
+Train Deep Learning Models on Google Colab platform: https://colab.research.google.com/
